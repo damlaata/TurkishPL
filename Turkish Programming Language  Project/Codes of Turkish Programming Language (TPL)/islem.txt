@@ -1,0 +1,13 @@
+bos anapanel()
+[
+        katli z = 1.024 ;
+        tam a , b , c , x, xyz ;
+        a=5;
+        b=85;
+        x = 45b;
+        xyz = 9545;
+        c = a/ b;
+        yaz(c);
+        
+        don0;
+]

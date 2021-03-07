@@ -1,0 +1,15 @@
+bos anapanel()
+[
+
+tam sayi1 = 9;
+tam sayi2 = 11;
+
+eger ( sayi1 < sayi2 )[ 
+"sayi1.buyuk";
+]
+       degilse[
+     "sayi2.buyuk";
+]
+  
+don0;
+]

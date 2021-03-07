@@ -1,0 +1,21 @@
+
+bos anapanel()
+[
+
+tam x;
+esitle(x,10);
+
+
+
+     iken(x<20)[
+ekle(x,x,1);
+
+
+      yaz(x);
+      
+
+]
+don0;
+]
+
+
